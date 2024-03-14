@@ -4,21 +4,25 @@
       {
         "id": 1,
         "name": "Old City of Jerusalem",
+        "image": "https://i0.wp.com/www.touristisrael.com/wp-content/uploads/2020/01/210910570-4.jpg?fit=805%2C405&ssl=1",
         "description": "A UNESCO World Heritage Site with historical significance to Judaism, Christianity, and Islam. It contains landmarks such as the Western Wall, the Church of the Holy Sepulchre, and the Dome of the Rock."
       },
       {
         "id": 2,
         "name": "Church of the Nativity (Bethlehem)",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2021/12/25/2982011-663610102.jpg?itok=_6fxJe_o",
         "description": "An ancient church in Bethlehem, built over the traditional birthplace of Jesus Christ. It is one of the oldest surviving Christian churches in the world and a UNESCO World Heritage Site."
       },
       {
         "id": 3,
         "name": "Al-Aqsa Mosque (Jerusalem)",
+        "image": "https://cdn.britannica.com/34/249434-050-B5256DCA/Al-Aqsa-Mosque-on-the-territory-of-the-interior-of-the-Temple-Mount-in-the-Old-City-in-Jerusalem-Israel.jpg",
         "description": "One of the holiest sites in Islam, located in the Old City of Jerusalem. It is the third holiest mosque in Islam and is associated with various important events in Islamic history."
       },
       {
         "id": 4,
         "name": "Dead Sea",
+        "image": "https://i0.wp.com/www.touristisrael.com/wp-content/uploads/2020/05/Dead-Sea-Beaches-scaled-e1589809735923.jpg?fit=1500%2C1000&ssl=1",
         "description": "A salt lake bordered by Jordan to the east and Israel and the West Bank to the west. It is one of the saltiest bodies of water in the world and is known for its buoyant waters and mineral-rich mud."
       }
     ]
@@ -28,21 +32,25 @@
       {
         "id": 5,
         "name": "Petra",
+        "image": "https://static.toiimg.com/photo/msid-79608505,width-96,height-65.cms",
         "description": "An ancient city famous for its rock-cut architecture and water conduit system. Petra is a UNESCO World Heritage Site and one of the New Seven Wonders of the World."
       },
       {
         "id": 6,
         "name": "Wadi Rum",
+        "image": "https://whc.unesco.org/uploads/thumbs/site_1377_0024-1200-630-20151105113530.jpg",
         "description": "A desert valley known for its stunning red sand dunes, rock formations, and ancient petroglyphs. Wadi Rum offers opportunities for camping, hiking, and desert safaris."
       },
       {
         "id": 7,
         "name": "Dead Sea (Jordan)",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Jordan_Dead_sea.jpg/1200px-Jordan_Dead_sea.jpg",
         "description": "A salt lake bordered by Jordan to the east and Israel and the West Bank to the west. It is the Earth's lowest elevation on land and known for its therapeutic mud and mineral-rich waters."
       },
       {
         "id": 8,
         "name": "Jerash",
+        "image": "https://www.worldhistory.org/img/c/p/1200x627/8250.jpg",
         "description": "An ancient city in northern Jordan known for its well-preserved Roman ruins. Jerash boasts impressive colonnaded streets, temples, and theaters."
       }
     ]
@@ -52,21 +60,25 @@
       {
         "id": 9,
         "name": "Pyramids of Giza",
+        "image": "https://lp-cms-production.imgix.net/2020-11/GettyRF_1085205362.jpg?auto=format&w=1440&h=810&fit=crop&q=75",
         "description": "An ancient complex of pyramids, including the Great Pyramid of Giza, the Pyramid of Khafre, and the Pyramid of Menkaure. The site also features the Great Sphinx of Giza."
       },
       {
         "id": 10,
         "name": "Luxor",
+        "image": "https://tourscanner.com/blog/wp-content/uploads/2023/07/things-to-do-in-Luxor.jpg",
         "description": "A city on the east bank of the Nile River known for its ancient monuments and temples, including the Karnak Temple Complex and the Valley of the Kings."
       },
       {
         "id": 11,
         "name": "Abu Simbel Temples",
+        "image": "https://saratprojesi.com/storage/images/abusimbel7.jpg",
         "description": "Two massive rock temples in Nubia, carved out of the mountainside during the reign of Pharaoh Ramesses II. The temples are famous for their colossal statues and intricate carvings."
       },
       {
         "id": 12,
         "name": "Egyptian Museum (Cairo)",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/190618105157-egypt-museums-egyptian-museum-3-photo-courtesy-experience-egypt-egyptian-tourism-authority.jpg?q=w_1600,h_900,x_0,y_0,c_fill/h_618",
         "description": "One of the world's largest museums devoted to ancient Egyptian history and artifacts. It houses an extensive collection, including the treasures of King Tutankhamun."
       }
     ]
@@ -76,21 +88,25 @@
       {
         "id": 13,
         "name": "Al-Ula",
+        "image": "https://twopaperboats.com/wp-content/uploads/2022/06/Twin-Tombs-Al-Ula.jpg",
         "description": "A UNESCO World Heritage Site known for its ancient rock formations, including the Nabatean tombs of Madain Saleh. Al-Ula also features stunning desert landscapes and historical ruins."
       },
       {
         "id": 14,
         "name": "Riyadh",
+        "image": "https://i.brecorder.com/primary/2022/11/6382b347c6428.jpg",
         "description": "The capital city of Saudi Arabia, known for its modern architecture, bustling souks (markets), and cultural landmarks such as the Masmak Fortress and the Kingdom Centre Tower."
       },
       {
         "id": 15,
         "name": "Jeddah Corniche",
+        "image": "https://beach-advisor.com/wp-content/uploads/2023/06/New-Jeddah-Corniche.webp",
         "description": "A picturesque coastal area in Jeddah, featuring seaside promenades, parks, and sculptures. The Jeddah Corniche offers stunning views of the Red Sea and is a popular spot for leisure activities."
       },
       {
         "id": 16,
         "name": "Mada'in Saleh",
+        "image": "https://saudi-archaeology.com/wp-content/uploads/2012/01/Area-C-at-dusk.jpg",
         "description": "An archaeological site in the Al-Ula region, featuring ancient Nabatean tombs and rock-cut monuments similar to those found in Petra, Jordan. Mada'in Saleh is a UNESCO World Heritage Site."
       }
     ]
@@ -100,21 +116,25 @@
       {
         "id": 17,
         "name": "The Pearl-Qatar",
+        "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0f/dd/12/65.jpg",
         "description": "An artificial island and luxury development in Doha, featuring upscale residences, shopping malls, restaurants, and marinas. The Pearl-Qatar is known for its elegant architecture and waterfront views."
       },
       {
         "id": 18,
         "name": "Souq Waqif",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/180122165928-souq-waqif-by-dimitris-sideridis.jpg?q=w_1600,h_900,x_0,y_0,c_fill/h_618",
         "description": "A traditional market in Doha known for its bustling atmosphere, winding alleyways, and shops selling spices, textiles, and souvenirs. Souq Waqif is also home to numerous restaurants and cafes."
       },
       {
         "id": 19,
         "name": "Katara Cultural Village",
+        "image": "https://www.accessibleqatar.com/wp-content/uploads/2016/05/katara_photo_big_1-1201x800.jpg",
         "description": "A cultural complex in Doha featuring theaters, galleries, performance venues, and outdoor spaces. Katara Cultural Village hosts various events and festivals celebrating Qatari heritage and international arts."
       },
       {
         "id": 20,
         "name": "Zubarah Fort",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Zubara_Fort.jpg",
         "description": "A historic fort in the northwestern coast of Qatar, built in the 18th century. Zubarah Fort is a UNESCO World Heritage Site and offers insights into Qatar's maritime history and heritage."
       }
     ]
@@ -124,21 +144,25 @@
       {
         "id": 21,
         "name": "Burj Khalifa",
+        "image": "https://cdn.getyourguide.com/img/tour/643545dd29359.jpeg/146.jpg",
         "description": "The tallest building in the world, offering panoramic views of Dubai's skyline and the Arabian Gulf. Burj Khalifa features observation decks, luxury hotels, and fine dining restaurants."
       },
       {
         "id": 22,
         "name": "Palm Jumeirah",
+        "image": "https://blog.thomascook.in/wp-content/uploads/2014/01/palm-jumeirah.jpg",
         "description": "An artificial island in the shape of a palm tree, featuring luxury resorts, residential villas, and entertainment attractions. Palm Jumeirah is known for its upscale amenities and beachfront properties"
       },
       {
         "id": 23,
         "name": "Dubai Mall",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/8c/0c/1a/taken-5-years-ago-it.jpg?w=1200&h=1200&s=1",
         "description": "One of the world's largest shopping malls, offering a vast array of retail outlets, restaurants, entertainment venues, and leisure attractions. Dubai Mall also features the Dubai Aquarium and Underwater Zoo."
       },
       {
         "id": 24,
         "name": "Dubai Marina",
+        "image": "https://static.independent.co.uk/2023/07/11/09/iStock-1439980218.jpg?width=1200&height=630&fit=crop",
         "description": "A waterfront district in Dubai featuring luxury skyscrapers, promenades, and marinas. Dubai Marina is a popular destination for dining, shopping, and leisure activities such as yacht cruises and watersports."
       }
     ]
