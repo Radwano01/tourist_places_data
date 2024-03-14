@@ -1,0 +1,27 @@
+{
+    "egypt": {
+      "tourist_places": [
+        {
+          "id": 1,
+          "name": "Pyramids of Giza",
+          "description": "An ancient complex of pyramids, including the Great Pyramid of Giza, the Pyramid of Khafre, and the Pyramid of Menkaure. The site also features the Great Sphinx of Giza."
+        },
+        {
+          "id": 2,
+          "name": "Luxor",
+          "description": "A city on the east bank of the Nile River known for its ancient monuments and temples, including the Karnak Temple Complex and the Valley of the Kings."
+        },
+        {
+          "id": 3,
+          "name": "Abu Simbel Temples",
+          "description": "Two massive rock temples in Nubia, carved out of the mountainside during the reign of Pharaoh Ramesses II. The temples are famous for their colossal statues and intricate carvings."
+        },
+        {
+          "id": 4,
+          "name": "Egyptian Museum (Cairo)",
+          "description": "One of the world's largest museums devoted to ancient Egyptian history and artifacts. It houses an extensive collection, including the treasures of King Tutankhamun."
+        }
+      ]
+    }
+  }
+  

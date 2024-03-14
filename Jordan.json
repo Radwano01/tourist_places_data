@@ -1,0 +1,27 @@
+{
+    "jordan": {
+      "tourist_places": [
+        {
+          "id": 1,
+          "name": "Petra",
+          "description": "An ancient city famous for its rock-cut architecture and water conduit system. Petra is a UNESCO World Heritage Site and one of the New Seven Wonders of the World."
+        },
+        {
+          "id": 2,
+          "name": "Wadi Rum",
+          "description": "A desert valley known for its stunning red sand dunes, rock formations, and ancient petroglyphs. Wadi Rum offers opportunities for camping, hiking, and desert safaris."
+        },
+        {
+          "id": 3,
+          "name": "Dead Sea (Jordan)",
+          "description": "A salt lake bordered by Jordan to the east and Israel and the West Bank to the west. It is the Earth's lowest elevation on land and known for its therapeutic mud and mineral-rich waters."
+        },
+        {
+          "id": 4,
+          "name": "Jerash",
+          "description": "An ancient city in northern Jordan known for its well-preserved Roman ruins. Jerash boasts impressive colonnaded streets, temples, and theaters."
+        }
+      ]
+    }
+  }
+  
