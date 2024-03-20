@@ -3,19 +3,19 @@
     "tourist_places": [
       {
         "id": 1,
-        "name": "Old City of Jerusalem",
+        "name": "Old City",
         "image": "https://i0.wp.com/www.touristisrael.com/wp-content/uploads/2020/01/210910570-4.jpg?fit=805%2C405&ssl=1",
         "description": "A UNESCO World Heritage Site with historical significance to Judaism, Christianity, and Islam. It contains landmarks such as the Western Wall, the Church of the Holy Sepulchre, and the Dome of the Rock."
       },
       {
         "id": 2,
-        "name": "Church of the Nativity (Bethlehem)",
+        "name": "Church of the Nativity",
         "image": "https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2021/12/25/2982011-663610102.jpg?itok=_6fxJe_o",
         "description": "An ancient church in Bethlehem, built over the traditional birthplace of Jesus Christ. It is one of the oldest surviving Christian churches in the world and a UNESCO World Heritage Site."
       },
       {
         "id": 3,
-        "name": "Al-Aqsa Mosque (Jerusalem)",
+        "name": "Al-Aqsa Mosque",
         "image": "https://cdn.britannica.com/34/249434-050-B5256DCA/Al-Aqsa-Mosque-on-the-territory-of-the-interior-of-the-Temple-Mount-in-the-Old-City-in-Jerusalem-Israel.jpg",
         "description": "One of the holiest sites in Islam, located in the Old City of Jerusalem. It is the third holiest mosque in Islam and is associated with various important events in Islamic history."
       },
